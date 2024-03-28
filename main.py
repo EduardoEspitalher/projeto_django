@@ -1,1 +1,0 @@
-print('Meu novo projeto')
